@@ -1,4 +1,4 @@
-# Cerebellum
+# Cerebellum Inspired Surprise Detection
 
 ![image](https://github.com/user-attachments/assets/33c9f2a9-bc52-4fa3-9c37-00abf2740293)
 
